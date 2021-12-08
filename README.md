@@ -1,4 +1,4 @@
-# 7D2D-CommunitySoundPacks
+# 7D2D-CommunitySoundPacks-a20
 For the game 7 Days to Die. To hold a collection of community curated sound mods
 
 Note: This is still *very* early in development and documentation has not been flushed out yet on how to use/contribute/develop packs. THERE ARE NO PACKS YET! Please stay tuned while this gets fleshed out a bit more.
