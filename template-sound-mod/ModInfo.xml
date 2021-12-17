@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="template-sound-mod" />
+		<Description value="An example of how to add additional sounds for the cupboard." />
+		<Author value="Doughphunghus" />
+		<Version value="20.0-b231.1.0" />
+    <Website value="https://github.com/doughphunghus" />
+	</ModInfo>
+</xml>

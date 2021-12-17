@@ -1,6 +1,8 @@
 # 7D2D-CommunitySoundPacks-a20
 For the game 7 Days to Die. To hold a collection of community curated sound mods
 
+Currently this contains a single, fully functional "template" pack called "template-sound-mod" that is supposed to be used with the instructions here: TBD
+
 Note: This is still *very* early in development and documentation has not been flushed out yet on how to use/contribute/develop packs. THERE ARE NO PACKS YET! Please stay tuned while this gets fleshed out a bit more.
 
 For now:

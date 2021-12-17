@@ -1,0 +1,16 @@
+<config>
+
+<!--
+Adding/appending audioclips to existing sounds
+
+Adding 1 new audioclips to the existing "open_cupboard" game sound.
+This sound is normally played when "opening" a cupboard
+
+These sounds will be played randomly (including any others associated with open_cupboard)
+when the "open_cupboard" sound is played. The more AudioClips added the more random it sounds.
+-->
+<append xpath="/Sounds/SoundDataNode[@name='open_cupboard']">
+  <AudioClip ClipName="#@modfolder:Resources/doughphunghus-cupboard.unity3d?wrench_harvest-5"/>
+</append>
+
+</config>
